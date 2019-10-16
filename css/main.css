@@ -46,8 +46,6 @@ h2 {
   color: #fcdb00;
 }
 
-/* Первый экран */
-
 .header {
   display: flex;
   align-items: center;
@@ -116,8 +114,6 @@ h2 {
   background: #fcdb00;
 }
 
-/* Второй экран */
-
 .feature {
   margin-bottom: 65px;
 }
@@ -131,8 +127,6 @@ h2 {
 .feature__text {
   color: #898989;
 }
-
-/* Третий экран */
 
 .touch {
   background: #010101;
